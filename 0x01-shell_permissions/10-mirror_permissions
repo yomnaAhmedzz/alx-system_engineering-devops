@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod RRhello hello
+chmod --reference hello
